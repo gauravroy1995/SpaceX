@@ -1,2 +1,0 @@
-# SpaceX
-Created with CodeSandbox
